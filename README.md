@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alabbas-ali](github https://github.com/alabbas-ali)
+- 👨‍💻 All of my projects are available at [https://github.com/alabbas-ali](github)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/alabbasha/](https://www.linkedin.com/in/alabbasha/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/alabbasha/](linkedin)
 
 - 💬 Ask me about **anything related to Java/Typescript/Python/Go or Angular/React/Express/**
 
