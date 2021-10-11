@@ -35,13 +35,8 @@
 </p>
 
 <h3 align="left">📊 &nbsp;This week I spent my time on</h3>
-![alabbas-ali stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alabbas-ali&hide_title=true&hide_border=true&langs_count=6&bg_color=00000000&text_color=777)
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alabbas-ali&show_icons=true&locale=en&layout=compact" alt="alabbas-ali" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alabbas-ali&show_icons=true&locale=en" alt="alabbas-ali" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alabbas-ali&show_icons=true&locale=en" alt="alabbas-ali" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alabbas-ali&" alt="alabbas-ali" /></p>
 
 
