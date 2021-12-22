@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alabbas :computer:</h1>
-<h3 align="center">A Expert, Software Engineer</h3>
+<h3 align="center">An Expert, Software Engineer</h3>
 
 
 - 🌱 I’m currently learning **Django**
