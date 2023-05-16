@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/alabbas-ali)
+- 👨‍💻 All of my public projects are available at [github](https://github.com/alabbas-ali) all ather private projects only availabe on gitlab
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/alabbasha/)
 
