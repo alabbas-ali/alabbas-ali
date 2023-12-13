@@ -4,15 +4,15 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my public projects are available at [github](https://github.com/alabbas-ali) all ather private projects only availabe on gitlab
+- 👨‍💻 All of my public projects are available at [github](https://github.com/alabbas-ali) all ather private projects only available on GitLab
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/alabbasha/)
 
 - 💬 Ask me about **anything related to Java/Typescript/Python/Go or Angular/React/Express/**
 
-<p align="left"> 
+<!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=alabbas-ali&label=Profile%20views&color=0e75b6&style=flat" alt="alabbas-ali" /> 
-</p>
+</p> -->
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -47,7 +47,7 @@
 <h3 align="left">📊 &nbsp;This week I spent my time on</h3>
 <p><img align="center" src="https://github-readme-state-alabbas.vercel.app/api/top-langs?username=alabbas-ali&show_icons=true&locale=en&layout=compact" alt="alabbas-ali" /></p>
 <p><img align="center" src="https://github-readme-state-alabbas.vercel.app/api?username=alabbas-ali&show_icons=true&locale=en" alt="alabbas-ali" /></p>
-<p><img align="center" src="https://github-readme-state-alabbas.vercel.app/?user=alabbas-ali&" alt="alabbas-ali" /></p>
+<p><img align="center" src="https://github-readme-state-alabbas.vercel.app/api/wakatime?username=alabbas-ali&" alt="alabbas-ali" /></p>
 
 
 <h3 align="left">:sparkles: &nbsp;Support:</h3>
